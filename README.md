@@ -4,6 +4,8 @@ I am [Jasper Concepcion](https://manok.dev), I write instructions to a rock that
 
 I play video games, watch anime, and code a lot even in my free time, i just enjoy it. 
 
-I am also known as "Manok" which means translates to **Chicken**, I chose that IGN because it sounded funny
+My gamer tag is "Manok" which means literally translates to **Chicken**, I chose that because it sounded funny
 
-If you wanna know more about my professional experience, here's my portfolio, [manok.dev](https://manok.dev). You can also contact me at [jasper@manok.dev](mailto:jasper@manok.dev).
+I'm also actively looking for another job, if you wanna know more about my professional experience, here's my portfolio, [manok.dev](https://manok.dev). You can also contact me at [jasper@manok.dev](mailto:jasper@manok.dev).
+
+I use arch and neovim... btw
